@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace PeakDetectionGit
 {
-    public class peakdetect
+    public class PeakDetect
     {
         public List<int> MaxpeaksIdx { get; set; }
         public List<int> MinpeaksIdx { get; set; }
